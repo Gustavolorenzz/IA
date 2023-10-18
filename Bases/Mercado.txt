@@ -1,3 +1,4 @@
+Leite,Café,Pão,Manteiga,Arroz,Feijão
  ,Café, ,Pão,Manteiga, , 
 Leite, ,Cerveja,Pão,Manteiga, , 
  ,Café, ,Pão,Manteiga, , 
